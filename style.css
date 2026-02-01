@@ -98,7 +98,7 @@ section .infos {
     top: 0;
     background-color: rgba(36, 36, 36, 0.288);
     backdrop-filter: blur(8px);
-    display: none;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
